@@ -1,6 +1,7 @@
 # Carpyncho web client
 
-Carpyncho, a data mining catalog browser which we hope will reutilized to search for and characterize time variable data of the ~PiB size VVV/VVVx`[1]` survey.
+Carpyncho, a data mining catalog browser which we hope will reutilized to search for and characterize
+time variable data of the ~PiB size VVV/VVVx`[1]` survey.
 
 Carpyncho is being developed for the detection and classification of periodic
 and non-periodic (or transient variables). For this purpose the stacked pawprint data from the VDFS
@@ -19,7 +20,7 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 
 ## Help & discussion mailing list
 
-**You can contact me at:** jbcabral@unc.edu.ar
+**You can contact me at:** [jbcabral@unc.edu.ar](mailto:jbcabral@unc.edu.ar)
 
 
 ## Code Repository & Issues

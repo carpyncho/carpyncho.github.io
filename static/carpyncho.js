@@ -20,9 +20,13 @@ $.get({
 });
 
 
-var showDownloadModal = function(evt){
-    alert("foo");
-}
+$.get({
+    url: "CITE.md",
+    cache: false
+}).then(mdtext => {
+    var html = conv.makeHtml(mdtext);
+    $("#cite-md").append(html)
+});
 
 
 var $downloadModal = $("#downloadModal");
