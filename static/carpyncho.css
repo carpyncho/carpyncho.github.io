@@ -22,3 +22,25 @@ img.logo {
 
 }
 
+
+.scrolleable{
+        overflow-y: scroll;
+        height: 200px;
+    }
+
+table.table td.table-primary.table-hover:hover {
+    background-color: #816969;
+}
+
+table.table td.tile-active:hover {
+    cursor: pointer;
+}
+
+.md-modal h1{
+    display: none;
+}
+
+
+.md-modal h2{
+    font-size: 1.5em;
+}

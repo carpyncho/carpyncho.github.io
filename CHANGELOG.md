@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## ver. 2020-04-13
+
+- Converted to a simple static site
+
 ## ver. 2019-07-24
 
 - The nav bar now has a *loggin* button.
