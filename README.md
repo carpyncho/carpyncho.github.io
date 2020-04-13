@@ -24,26 +24,18 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 
 ## Code Repository & Issues
 
-https://github.com/carpyncho/web
+[https://github.com/carpyncho/carpyncho.github.io](https://github.com/carpyncho/carpyncho.github.io)
 
 
 ## Citation
 
 If you use Carpyncho in a scientific publication, we would appreciate
-citations to the following paper:
+check our [citation page](https://github.com/carpyncho/carpyncho.github.io/blob/master/CITE.md)
 
 
+## License
 
-
-
-Bibtex entry
-
-```bibtext
-    @article{
-    }
-```
-
-**Full Publication:** -
+Carpyncho is relases under [BSD 3-Clause License](https://github.com/carpyncho/carpyncho.github.io/blob/master/LICENSE)
 
 
 **References**
