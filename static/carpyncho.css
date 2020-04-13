@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+}
+
+@media (min-width: 768px) {
+    aside {
+        height: 100%;
+    }
+}
+
+a.nav-link {
+    color: whitesmoke;
+}
+
+img.logo {
+    transform: scale(.30);
+
+}
+
+.loggedin-info {
+    width: 70% !important;
+
+}
+
