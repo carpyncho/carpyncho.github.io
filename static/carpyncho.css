@@ -22,7 +22,6 @@ img.logo {
 
 }
 
-
 .scrolleable{
         overflow-y: scroll;
         height: 200px;
@@ -43,4 +42,9 @@ table.table td.tile-active:hover {
 
 .md-modal h2{
     font-size: 1.5em;
+}
+
+
+div#readme-md img {
+    float: right !important;
 }

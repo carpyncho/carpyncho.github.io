@@ -1,5 +1,7 @@
 # Carpyncho web client
 
+![Logo](https://github.com/carpyncho/carpyncho.github.io/raw/master/static/logo.png)
+
 Carpyncho, a data mining catalog browser which we hope will reutilized to search for and characterize
 time variable data of the ~PiB size VVV/VVVx`[1]` survey.
 
