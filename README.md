@@ -19,27 +19,112 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 - feets`[10, 11]`: for feature extraction.
 - Scikit-learn`[12]`: for machine learning algorithms.
 
+----
+
+## Dealing with the `parquet.bz2` file format.
+
+All our files are stored compresed in
+[bzip2](https://en.wikipedia.org/wiki/Bzip2) format and need to be uncompressed.
+This can be achieved with many visual compressors. From command line (in most
+linux and osx) you can run
+
+```console
+$ bzip2 -k filename.parquet.bz2
+```
+
+Note, that this command will not preserve original archive file.
+
+To preserve the original archive, add the `-k` option:
+
+```console
+$ bzip2 -dk filename.parquet.bz2
+```
+
+Apache Parquet is a free and open-source column-oriented data storage format.
+It provides efficient data compression and encoding schemes with enhanced
+performance to handle complex data in bulk.
+
+Apache Parquet is implemented using the record-shredding and assembly
+algorithm, which accommodates the complex data structures that can be used to
+store the data. The values in each column are physically stored in contiguous
+memory locations and this columnar storage provides the following benefits:
+
+- Column-wise compression is efficient and saves storage space
+- Compression techniques specific to a type can be applied as the column
+  values tend to be of the same type
+- Queries that fetch specific column values need not read the entire row data
+  thus improving performance
+- Different encoding techniques can be applied to different columns
+
+This lines was extracted from
+[The wikipedia Apache Parquet article](https://en.wikipedia.org/wiki/Apache_Parquet)
+
+
+**Python**
+
+First install pandas and pyarrow with
+
+```console
+$ pip install pandas pyarrow
+```
+
+and then from the Python code/terminal
+
+```python
+
+# load the library into memory
+>>> import pandas as pd
+
+# read the parquet file into a dataframe
+>>> pd.read_parquet("filename.parquet")
+```
+
+Check for more info
+[here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_parquet.html)
+
+**R**
+
+```R
+# install the arrow library (only once)
+> install.packages("arrow", repos = "https://dl.bintray.com/ursalabs/arrow-r")
+
+# load the library into memory
+> library("arrow")
+
+# read the parquet file into a dataframe
+> df = read_parquet("filename.parquet", as_data_frame=TRUE)
+
+```
+
+More info about the *arrow* library for R can be found here:
+[arrow for R](https://cran.r-project.org/web/packages/arrow/index.html)
+
+----
 
 ## Contact
 
 **You can contact me at:** [jbcabral@unc.edu.ar](mailto:jbcabral@unc.edu.ar)
 
+----
 
 ## Code Repository & Issues
 
 [https://github.com/carpyncho/carpyncho.github.io](https://github.com/carpyncho/carpyncho.github.io)
 
+----
 
 ## Citation
 
 If you use Carpyncho in a scientific publication, we would appreciate
 check our [citation page](https://github.com/carpyncho/carpyncho.github.io/blob/master/CITE.md)
 
+----
 
 ## License
 
 Carpyncho is relases under [BSD 3-Clause License](https://github.com/carpyncho/carpyncho.github.io/blob/master/LICENSE)
 
+----
 
 ## Acknowledgments
 

@@ -8,7 +8,10 @@ $.get({
     cache: false
 }).then(mdtext => {
     var html = conv.makeHtml(mdtext);
-    $("#readme-md").append(html)
+    $("#readme-md").append(html);
+    $("div#readme-md code.console").parent().addClass("alert alert-dark");
+    $("div#readme-md code.python").parent().addClass("alert alert-dark");
+    $("div#readme-md code.R").parent().addClass("alert alert-dark");
 });
 
 $.get({
@@ -69,29 +72,6 @@ $.getJSON({
 
     });
 });
-
-
-//~ var $downloadModalTileNameTitle = $downloadModal.find("#downloadModalTileNameTitle");
-    //~ var $downloadModalLinks = $downloadModal.find("#downloadModalLinks");
-
-    //~ $("td.tile").click(function(evt){
-        //~ var $td = $(evt.currentTarget);
-        //~ $downloadModalTileNameTitle.text($td.data("tile"));
-
-        //~ var $links = $td.find("div.links").clone();
-        //~ $downloadModalLinks.empty();
-
-        //~ $downloadModalLinks.append($links);
-
-        //~ $links.find("a.download").click(function(){
-            //~ $downloadModal.modal("hide");
-            //~ $links.delete();
-        //~ });
-
-        //~ $downloadModal.modal('show');
-    //~ });
-
-
 
 
 });
