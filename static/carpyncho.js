@@ -46,16 +46,16 @@ $.getJSON({
             $downloadModalLinks.empty();
 
             $.each(tdata, function(lname, ldata){
-               var links = " ".concat(
+                var links = " ".concat(
                     '<li class="list-group-item ">',
                         "<div class='d-flex justify-content-between align-items-center'>",
-                            `<a href="${ldata['link']}" class="">`,
-                                `<i class="fa fa-download"></i> ${ldata["hname"]}`,
+                            `<a target="_new" href="${ldata['link']}" class="">`,
+                                `<i class="fab fa-google-drive"></i> ${ldata["hname"]}`,
                             "</a>",
                             `<span class="badge badge-info badge-pill">Updated ${ldata['date']}</span>`,
                         "</div>",
                         "<div class='d-flex justify-content-between align-items-center'>",
-                            `<small>Filename: <code>${tile}_${lname}.${ldata['extension']}</code></small>`,
+                            `<small><b>Format:</b> ${ldata["format"]} (<code>${ldata['extension']}</code>)</small>`,
                             `<small>MD5: <code>${ldata['md5sum']}</code></small>`,
                         "</div>",
                     '</li>');

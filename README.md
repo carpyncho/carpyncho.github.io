@@ -20,7 +20,7 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 - Scikit-learn`[12]`: for machine learning algorithms.
 
 
-## Help & discussion mailing list
+## Contact
 
 **You can contact me at:** [jbcabral@unc.edu.ar](mailto:jbcabral@unc.edu.ar)
 
@@ -41,7 +41,33 @@ check our [citation page](https://github.com/carpyncho/carpyncho.github.io/blob/
 Carpyncho is relases under [BSD 3-Clause License](https://github.com/carpyncho/carpyncho.github.io/blob/master/LICENSE)
 
 
-**References**
+## Acknowledgments
+
+This work was partially supported by the Consejo Nacional de Investigaciones Científicas y Tecnicas
+(CONICET, Argentina) and the Secretara de Ciencia y Tecnología de la
+Universidad Nacional de Córdoba (SeCyT-UNC, Argentina).
+The authors were supported by a fellowship from
+CONICET. Some processing was achieved with the Argentine
+VO (NOVA) infrastructure, the Centro Franco Argentino de Ciencias de la Información y de Sistemas (CIFASIS-UNR);
+and the Instituto De Astronomía Teórica Y Experimental (IATE-OAC-UNC)
+for which the authors express their gratitude.
+
+Storage provide by the Universidad Nacional de Córdoba (UNC), and
+Google Suite. Hosting by Github Pages.
+
+**Links**
+
+- [CIFASIS-UNR](https://www.cifasis-conicet.gov.ar/)
+- [IATE-OAC-UNC](http://iate.oac.uncor.edu/)
+- [UNC](https://www.unc.edu.ar/)
+- [CONICET](https://www.conicet.gov.ar/)
+- [SeCyT-UNC](https://www.unc.edu.ar/ciencia-y-tecnolog%c3%ada/)
+- [NOVA](http://nova.conicet.gov.ar/)
+- [Google Suite](https://gsuite.google.com/)
+- [Github Pages](https://pages.github.com/)
+
+
+## References
 
 - `[1]`: Minniti, D., Lucas, P. W., Emerson, J. P., Saito, R. K., Hempel, M., Pietrukowicz, P., ... & Bandyopadhyay, R. M. (2010). VISTA Variables in the Via Lactea (VVV): The public ESO near-IR variability survey of the Milky Way. New Astronomy, 15(5), 433-443.
 - `[2]`: Cabral, J. B., Sánchez, B., Beroiz, M., Domínguez, M., Lares, M., Gurovich, S., & Granitto, P. (2017). Corral framework: Trustworthy and fully functional data intensive parallel astronomical pipelines. Astronomy and computing, 20, 140-154.
