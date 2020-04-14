@@ -6,7 +6,7 @@
       "extension": ".parquet",
       "link": "https://drive.google.com/a/unc.edu.ar/uc?id=1S5H8_RbUBfvFvL4zqCaTKW9bhhdlQS_T&export=download",
       "date": "2020-04-14",
-      "md5sum": "d0ab09a8ad94bac71f13316b717a58b3"
+      "md5sum": "d0ab09a8ad94bac71f13316b717a58b3  features_b206.parquet"
     },
     "lc": {
       "hname": "Time-Serie",
@@ -14,7 +14,7 @@
       "extension": ".parquet",
       "link": "https://drive.google.com/a/unc.edu.ar/uc?id=1D_Iww0abM9Ybw4pfUTgbZWtF3T8oFWFU&export=download",
       "date": "2020-04-14",
-      "md5sum": "dc6dbdf336d25907714e9a17e9c28dc1 "
+      "md5sum": "dc6dbdf336d25907714e9a17e9c28dc1  lc_obs_b206.parquet"
     }
   }
 }
