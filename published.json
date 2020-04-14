@@ -2,273 +2,417 @@
   "b206": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b214": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b216": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b220": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b228": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b234": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b247": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b248": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b261": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b262": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b263": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b264": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b277": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b278": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b360": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   },
   "b396": {
     "features": {
       "hname": "Features",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "ts": {
       "hname": "Time Serie",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     },
     "carpynchoRR": {
       "hname": "Carpyncho RR",
+      "format": "HDF-5",
+      "extension": "h5",
       "link": "https://vvvsurvey.org/",
-      "date": "2020-04-13"
+      "date": "2020-04-13",
+      "md5sum": "0f36f6f7b89b17c0a3f08fad4a8f025a"
     }
   }
 }
