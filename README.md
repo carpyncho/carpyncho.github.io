@@ -3,7 +3,7 @@
 ![Logo](https://github.com/carpyncho/carpyncho.github.io/raw/master/static/logo.png)
 
 Carpyncho, a data mining catalog browser which we hope will reutilized to search for and characterize
-time variable data of the ~PiB size VVV/VVVx`[1]` survey.
+time variable data of the ~PiB size [VVV/VVVx](https://vvvsurvey.org/)`[1]` survey.
 
 Carpyncho is being developed for the detection and classification of periodic
 and non-periodic (or transient variables). For this purpose the stacked pawprint data from the VDFS
