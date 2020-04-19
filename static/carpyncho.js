@@ -36,7 +36,7 @@ var $downloadModal = $("#downloadModal");
 var $downloadModalLinks = $downloadModal.find("#downloadModalLinks");
 
 $.getJSON({
-    url: "published.json",
+    url: "static/index.json",
     cache: false
 }).then(json => {
     $.each(json, function(tile, tdata){

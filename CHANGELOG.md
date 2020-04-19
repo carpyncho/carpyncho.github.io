@@ -1,8 +1,16 @@
 # CHANGELOG
 
+## ver. 2020-04-19
+
+- Upload light-curves y features for the tiles `b206`, `b214`, `b216`,
+ `b220`, `b228`, `b234`, `b247`, `b248`, `b261`, `b262`, `b263`, `b264`,
+ `b277`, `b278`, `b356`, `b360` and `b396`
+
+
 ## ver. 2020-04-13
 
 - Converted to a simple static site
+
 
 ## ver. 2019-07-24
 
