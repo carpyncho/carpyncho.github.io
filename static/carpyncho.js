@@ -63,13 +63,9 @@ $.getJSON({
                         "</div>",
                     '</li>');
                 $downloadModalLinks.append(links);
-
             });
-
             $downloadModal.modal();
         });
-
-
     });
 });
 
