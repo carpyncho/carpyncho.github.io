@@ -35,6 +35,17 @@ $.get({
 var $downloadModal = $("#downloadModal");
 var $downloadModalLinks = $downloadModal.find("#downloadModalLinks");
 
+function makeid(length) {
+   var result           = '';
+   var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+   var charactersLength = characters.length;
+   for ( var i = 0; i < length; i++ ) {
+      result += characters.charAt(Math.floor(Math.random() * charactersLength));
+   }
+   return result;
+}
+
+
 $.getJSON({
     url: "static/index.json",
     cache: false
@@ -49,10 +60,11 @@ $.getJSON({
             $downloadModalLinks.empty();
 
             $.each(tdata, function(lname, ldata){
+                var nocache = makeid(255);
                 var links = " ".concat(
                     '<li class="list-group-item ">',
                         "<div class='d-flex justify-content-between align-items-center'>",
-                            `<a target="_new" href="${ldata['link']}" class="">`,
+                            `<a target="_new" href="${ldata['link']}&nocache=${nocache}" class="">`,
                                 `<i class="fab fa-google-drive"></i> ${ldata["hname"]}`,
                             "</a>",
                             `<span class="badge badge-info badge-pill">Updated ${ldata['date']}</span>`,
