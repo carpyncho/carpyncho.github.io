@@ -45,6 +45,6 @@ table.table td.tile-active:hover {
 }
 
 
-div#readme-md img {
+div#readme-md img[alt='Logo'] {
     float: right !important;
 }

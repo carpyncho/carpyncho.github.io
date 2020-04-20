@@ -2,6 +2,7 @@
 
 ![Logo](https://github.com/carpyncho/carpyncho.github.io/raw/master/static/logo.png)
 
+
 Carpyncho, a data mining catalog browser which we hope will reutilized to search for and characterize
 time variable data of the ~PiB size [VVV/VVVx](https://vvvsurvey.org/)`[1]` survey.
 
@@ -18,6 +19,9 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 - PyAstronomy`[9]`: for GLS, PDM and time conversion algorithms.
 - feets`[10, 11]`: for feature extraction.
 - Scikit-learn`[12]`: for machine learning algorithms.
+
+
+[![DOI](https://zenodo.org/badge/255391173.svg)](https://zenodo.org/badge/latestdoi/255391173)
 
 ----
 

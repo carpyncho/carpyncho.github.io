@@ -10,3 +10,5 @@ Bibtex entry
     @article{
     }
 ```
+
+This project is registered with the DOI: [![DOI](https://zenodo.org/badge/255391173.svg)](https://zenodo.org/badge/latestdoi/255391173)
