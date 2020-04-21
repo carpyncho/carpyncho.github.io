@@ -37,7 +37,7 @@ var $downloadModalLinks = $downloadModal.find("#downloadModalLinks");
 
 
 $.getJSON({
-    url: "static/index.json",
+    url: "https://raw.githubusercontent.com/carpyncho/carpyncho-py/master/data/index.json",
     cache: false
 }).then(json => {
     $.each(json, function(tile, tdata){
@@ -68,6 +68,10 @@ $.getJSON({
             });
             $downloadModal.modal();
         });
+
+
+
+
     });
 });
 
