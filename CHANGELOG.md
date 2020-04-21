@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## ver. 2020-04-21
+
+- Added info about file sizes.
+- Moved the index to another repo.
+- Place holder to catalogs-help
+
 ## ver. 2020-04-19
 
 - Upload light-curves y features for the tiles `b206`, `b214`, `b216`,
