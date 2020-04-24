@@ -25,6 +25,17 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 
 ----
 
+## Python client
+
+The [Carpyncho Python client](https://github.com/carpyncho/carpyncho-py)
+can access and download any of this datesets and their metadata.
+
+Also offers some functionalities to easy export the fileas to another formats
+
+Please check: [https://github.com/carpyncho/carpyncho-py](https://github.com/carpyncho/carpyncho-py)
+
+----
+
 ## Dealing with the `parquet.bz2` file format.
 
 All our files are stored compresed in
@@ -66,7 +77,9 @@ This lines was extracted from
 
 **Python**
 
-First install pandas and pyarrow with
+The easy way is to use the [Carpyncho Python client](https://github.com/carpyncho/carpyncho-py),
+but if you wan't to manually download and manipulate the files you need to
+first install pandas and pyarrow with
 
 ```console
 $ pip install pandas pyarrow
