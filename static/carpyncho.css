@@ -8,8 +8,10 @@ body, html {
     }
 }
 
-a.nav-link {
-    color: whitesmoke;
+
+
+.navbar a:hover {
+    color: #f9d5d4 !important;
 }
 
 img.logo {
