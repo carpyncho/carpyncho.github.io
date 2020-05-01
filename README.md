@@ -2,15 +2,14 @@
 
 ![Logo](https://github.com/carpyncho/carpyncho.github.io/raw/master/static/logo.png)
 
-
 Carpyncho, a data mining catalog browser which we hope will reutilized to search for and characterize
 time variable data of the ~PiB size [VVV/VVVx](https://vvvsurvey.org/)`[1]` survey.
 
 Carpyncho is being developed for the detection and classification of periodic
-and non-periodic (or transient variables). For this purpose the stacked pawprint data from the VDFS
-CASU v 1.3 catalogues have been crossed matched with the VDFS CASU v1.3 tile catalogues into a
-PostgreSql data-base. The Carpyncho infraestructure http://carpyncho.jbcabral.org/ is being developed
-entirely in python on top of a Custom-Framework for data processing`[2, 3]` and a Django web-framework`[4]` (for the webapp).
+variables. For this purpose the stacked pawprint data from the VDFS
+CASU v >= 1.3 catalogues have been crossed matched with the VDFS CASU v1.3 tile catalogues into a
+PostgreSql data-base. The Carpyncho infraestructure https://carpyncho.gihub.io is being developed
+entirely in Python on top of a Custom-Framework for data processing`[2, 3]`.
 
 For calculation purposes Carpyncho is layered on-top of a scientific-Python library stack that includes:
 
