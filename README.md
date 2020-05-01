@@ -2,8 +2,7 @@
 
 ![Logo](https://github.com/carpyncho/carpyncho.github.io/raw/master/static/logo.png)
 
-
-Carpyncho, is a data mining catalog browser which we hope will be reutilized to search for and characterize time variable data of the ~PiB size [VVV/VVVx](https://vvvsurvey.org/)`[1]` survey. Is being developed for the detection and classification of periodic variables. For this purpose the stacked pawprint data from the VDFS CASU v >= 1.3 catalogs have been crossed matched with the VDFS CASU v1.3 tile catalogs into a Parquet files. 
+Carpyncho, is a catalog browser that we hope will be reutilized to search for and characterize time variable data of the ~PiB size [VVV/VVVx](https://vvvsurvey.org/)`[1]` survey. Is being developed for the detection and classification of periodic variables. For this purpose the stacked pawprint data from the VDFS CASU v >= 1.3 catalogs have been crossed matched with the VDFS CASU v1.3 tile catalogs into a Parquet files. 
 The Carpyncho infrastructure [https://carpyncho.gihub.io](https://carpyncho.gihub.io)is being developed entirely in Python on top of a Custom-Framework for data processing`[2, 3]`.
 Also, a companion Python library is developed to access the same dataset as a [Pandas DataFrame](https://pandas.pydata.org/).
 
