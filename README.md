@@ -21,7 +21,7 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 - Scikit-learn`[12]`: for machine learning algorithms.
 
 
-[![DOI](https://zenodo.org/badge/255391173.svg)](https://zenodo.org/badge/latestdoi/255391173)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3766908.svg)](https://doi.org/10.5281/zenodo.3766908)
 
 ----
 
