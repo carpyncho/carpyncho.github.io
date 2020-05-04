@@ -10,7 +10,7 @@ citations to the following paper:
 
 Bibtex entry
 
-```bibtext
+```bib
 @Article{cabral:2020,
   author      = {J. B. Cabral AND F. Ramos AND S. Gurovich AND P. Granitto},
   title       = {Automatic Catalog of RRLyrae from ∼ 14 million VVV

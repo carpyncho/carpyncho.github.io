@@ -29,7 +29,7 @@ $.get({
 }).then(mdtext => {
     var html = conv.makeHtml(mdtext);
     $("#cite-md").append(html);
-    $("#cite-md code.bibtext").parent().addClass("alert alert-secondary");
+    $("#cite-md code.bib").parent().addClass("alert alert-secondary");
 });
 
 
