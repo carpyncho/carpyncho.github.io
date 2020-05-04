@@ -19,7 +19,7 @@ $.get({
     cache: false
 }).then(mdtext => {
     var html = conv.makeHtml(mdtext);
-    $("#changelog-md").append(html)
+    $("#changelog-md").append(html);
 });
 
 
@@ -28,7 +28,8 @@ $.get({
     cache: false
 }).then(mdtext => {
     var html = conv.makeHtml(mdtext);
-    $("#cite-md").append(html)
+    $("#cite-md").append(html);
+    $("#cite-md code.bibtext").parent().addClass("alert alert-secondary");
 });
 
 

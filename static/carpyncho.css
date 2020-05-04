@@ -50,3 +50,10 @@ table.table td.tile-active:hover {
 div#readme-md img[alt='Logo'] {
     float: right !important;
 }
+
+blockquote {
+    border-left: 1px solid #e5e5e5;
+    margin: 0;
+    padding: 0 0 0 20px;
+    font-style: italic;
+}
