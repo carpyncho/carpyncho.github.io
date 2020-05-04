@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## ver. 1.0.1
+
+Added citation info.
+
 ## ver. 2020-04-26
 
 - Python client logo and link.
