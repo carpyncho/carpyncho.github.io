@@ -16,6 +16,7 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3766908.svg)](https://doi.org/10.5281/zenodo.3766908)
+[![ascl:2005.007](https://img.shields.io/badge/ascl-2005.007-blue.svg?colorB=262255)](http://ascl.net/2005.007)
 
 ----
 
