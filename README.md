@@ -14,6 +14,8 @@ For calculation purposes Carpyncho is layered on-top of a scientific-Python libr
 - feets`[10, 11]`: for feature extraction.
 - Scikit-learn`[12]`: for machine learning algorithms.
 
+
+[![QuatroPe](https://img.shields.io/badge/QuatroPe-Applications-1c5896)](https://quatrope.github.io/)
 [![ascl:2005.007](https://img.shields.io/badge/ascl-2005.007-blue.svg?colorB=262255)](http://ascl.net/2005.007)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3766908.svg)](https://doi.org/10.5281/zenodo.3766908)
 
