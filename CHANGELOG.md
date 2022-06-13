@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## ver. 1.5
+
+Migrated the storage.
+
 ## ver. 1.0.1
 
 Added citation info.
